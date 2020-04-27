@@ -20,6 +20,10 @@ all_devices = [x + y for x, y in zip(ethernet_devices, usb_devices)]
 print(all_devices)
 ```
 
+```python
+[2, [7, 7], [2, 1], [8374163, 2314567], [84302738, 0]]
+```
+
 ## Sử dụng ánh xạ (map)
 ```python
 import operator 
