@@ -3,21 +3,22 @@
 Đây là các vấn đề với Python mà chúng ta thường gặp hàng ngày khi lập trình với ngôn ngữ này. Tại repo này, chúng ta sẽ xem thử các kịch bản phổ biến khác nhau thường phát sinh và làm thế nào để giải quyết chúng với code Python. Đặc biệt, mình sẽ chia sẻ qua lời giải thích ngắn gọn về vấn đề với 1 danh sách các giải pháp với code Python. Sau đó, mình sẽ link tất cả các nguồn tài nguyên mà mình có. 
 ## Danh sách vấn đề
 1. Đảo ngược Dictionary
-2. Cộng các Element của 2 List
-3. Kiểm tra 1 File có đang Tồn tại
-4. Chuyển đổi 2 List vào 1 Dictionary
-5. Kiểm tra Nếu 1 List đang Trống (Empty)
-6. Tạo Bản sao (cloning) cho 1 List
-7. Khôi phục Mục sau cùng của 1 List
-8. Tạo 1 Lối tắt cho Script Python
-9. Sắp xếp 1 List các String
-10. Phân tích 1 Bảng tính
-11. Sắp xếp 1 List các Dictionary
-12. Viết 1 List Comprehension
-13. Gộp 2 Dictionary
-14. Định dạng 1 String
-15. Print trên cùng 1 Dòng
-16. Kiểm tra Hiệu năng
+2. Sắp xếp 1 List các String
+3. Phân tích 1 Bảng tính
+4. Sắp xếp 1 List các Dictionary
+5. Viết 1 List Comprehension
+6. Gộp 2 Dictionary
+7. Định dạng 1 String
+8. Print trên cùng 1 Dòng
+9. Kiểm tra Hiệu năng
+10. Kiểm tra 1 File có đang Tồn tại
+11. Kiểm tra Nếu 1 List đang Trống (Empty)
+12. Tạo Bản sao (cloning) cho 1 List
+13. Chuyển đổi 2 List vào 1 Dictionary
+14. Tạo 1 shortcut cho Script Python
+15. Truy xuất phần tử cuối của 1 List
+16. Cộng các Element của 2 List
+
 
 ## Liên hệ
 Huỳnh Lương Phương Trúc - [@Facebook](https://www.facebook.com/hlptruc) - huynhtruc0309@gmail.com
