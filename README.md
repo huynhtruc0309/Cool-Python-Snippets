@@ -20,7 +20,7 @@
 16. Cộng các Element của 2 List
 
 
-## Liên hệ
+## Người đóng góp
 Huỳnh Lương Phương Trúc - [@Facebook](https://www.facebook.com/hlptruc)
 
 Lê Nguyễn Nhựt Trường - [@Facebook](https://www.facebook.com/lnntruong1999)
