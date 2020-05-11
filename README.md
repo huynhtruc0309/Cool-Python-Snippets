@@ -21,9 +21,9 @@
 
 
 ## Liên hệ
-Huỳnh Lương Phương Trúc - [@Facebook](https://www.facebook.com/hlptruc) - huynhtruc0309@gmail.com
+Huỳnh Lương Phương Trúc - [@Facebook](https://www.facebook.com/hlptruc)
 
-Lê Nguyễn Nhựt Trường - [@Facebook](hhttps://www.facebook.com/lnntruong1999)
+Lê Nguyễn Nhựt Trường - [@Facebook](https://www.facebook.com/lnntruong1999)
 
 Project Link: https://github.com/huynhtruc0309/Cool-Python-Snippets
 ## Nguồn tham khảo
